@@ -1,5 +1,7 @@
 # 排序演算法分析報告
-
+學號: 11428134
+姓名: 吳睿鴻
+模擬頁面: https://jia-yin.github.io/sort_report/
 ---
 
 ## 一、前言
